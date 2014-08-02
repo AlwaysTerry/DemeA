@@ -17,6 +17,6 @@ public class HeapOOM {
 	}
 	
 	
-	
+	//-------------add by terry 2014/8/2
 	
 }
